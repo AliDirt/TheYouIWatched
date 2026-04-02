@@ -25,3 +25,64 @@ You are a detective who receives an email requesting information about three dec
 
 <B><H3>Message</H3></B>
 Humans are two-faced, even multi-faceted. People are more fragile than we imagine, yet stronger too, or both at once. A single word can sway their will to live, yet never erase their resolve. In today’s rampant virtual world, we project ourselves online, where every action and emotion gets amplified. We love being spectators, but when facing the same situation yourself, what choice would you make? Aren’t you just like those you once “controlled”?
+
+
+<B><H3>Credits</H3></B>
+
+Concept & Game Design<BR>
+Lai Tsz Fung<BR>
+Program & Text<BR>
+Lai Tsz Fung <BR>
+Graphics<BR>
+Lai Tsz Fung <BR>
+Music & Sound Effects<BR>
+Lai Tsz Fung<BR>
+Unity Asset<BR>
+Youtube<BR>
+theme  Song<BR>
+Ruru's suicide show on a livestream<BR>
+神聖かまってちゃん<BR>
+<BR>
+
+Director  <BR>
+Lai Tsz Fung <BR>
+Writers <BR>
+Lai Tsz Fung <BR>
+Director of Photography <BR>
+Lai Tsz Fung <BR>
+Post-production Artist <BR>
+Lai Tsz Fung <BR>
+Editor <BR>
+Lai Tsz Fung <BR>
+Producer <BR>
+Lai Tsz Fung <BR>
+
+Actor  <BR>
+Henry Henry Kwong<BR>
+Henry's Team 1 Justin Tsang<BR>
+Henry's Team 2 Lai Tsz Fung<BR>
+Kanan Kanan Pun<BR>
+Nana Sammy Lai<BR>
+Nana’s Art Therapist Lai Tsz Fung <BR>
+
+locations<BR>
+Lai Tsz Fung <BR>
+
+Game Tester<BR>
+Louis <BR>
+-<BR>
+
+Assets<BR>
+Backrooms Music juanjo_sound<BR>
+D'Dialogue System DoublSB<BR>
+DreamOS Michsky<BR>
+Easy Transition Ahmed Benlakhdhar<BR>
+UnityAspectRatioController enchiSoft Denchi & restush Restu Syibul Huda<BR>
+<BR>
+
+Real reference cases<BR>
+R.I.P<BR>
+Tedzu<BR>
+羅小貓貓子 <BR>
+Keiana Herndon <BR>
+Roro-chan<BR>
