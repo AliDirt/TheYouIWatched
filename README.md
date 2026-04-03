@@ -70,7 +70,7 @@ Lai Tsz Fung <BR>
 
 Game Tester<BR>
 Louis <BR>
--<BR>
+Sammy Lai<BR>
 
 Assets<BR>
 Backrooms Music juanjo_sound<BR>
@@ -81,7 +81,7 @@ UnityAspectRatioController enchiSoft Denchi & restush Restu Syibul Huda<BR>
 <BR>
 
 Real reference cases<BR>
-R.I.P<BR>
+Rest In Peace<BR>
 Tedzu<BR>
 羅小貓貓子 <BR>
 Keiana Herndon <BR>
