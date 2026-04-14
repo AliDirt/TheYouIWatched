@@ -24,7 +24,10 @@ Reinterpreting these true stories aims to prompt reflection on why they happened
 You are a detective who receives an email requesting information about three deceased livestreamers. During the investigation, you will discover your own past, and "you" may choose to oppose you.<BR>
 
 <B><H3>Message</H3></B>
-Humans are two-faced, even multi-faceted. People are more fragile than we imagine, yet stronger too, or both at once. A single word can sway their will to live, yet never erase their resolve. In today’s rampant virtual world, we project ourselves online, where every action and emotion gets amplified. We love being spectators, but when facing the same situation yourself, what choice would you make? Aren’t you just like those you once “controlled”?
+Humans are two-faced, even multi-faceted. People are more fragile than we imagine, yet stronger too, or both at once. A single word can sway their will to live, yet never erase their resolve. In today’s rampant virtual world, we project ourselves online, where every action and emotion gets amplified. We love being spectators, but when facing the same situation yourself, what choice would you make? Aren’t you just like those you once “controlled”?<BR>
+
+<B>Save Path</H3></B>
+C:\Users\User\AppData\LocalLow\AliDirt<BR>
 
 
 <B><H3>Credits</H3></B>
@@ -71,6 +74,7 @@ Lai Tsz Fung <BR>
 Game Tester<BR>
 Louis <BR>
 Sammy Lai<BR>
+Sam Kwan <BR>
 
 Assets<BR>
 Backrooms Music juanjo_sound<BR>
